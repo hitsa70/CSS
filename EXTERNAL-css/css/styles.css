@@ -1,0 +1,23 @@
+
+  body{
+    background-color:#303960;
+  }
+  hr{
+    background-color:#ea9a96;
+    border-style: none;
+
+    border-top: dotted;
+    border-color: grey;
+    height: 0px;
+    border-width: 5px;
+    width: 20%;
+  }
+  table{
+    background-color:#f8b24f;
+  }
+h3{
+  color: #e5e5e5;
+}
+h1{
+  color: #e5e5e5;
+}
